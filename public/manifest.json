@@ -1,0 +1,19 @@
+{
+  "name": "Agri-Rise - Farmer Assistant",
+  "short_name": "Agri-Rise",
+  "description": "AI-powered mobile assistant for farmers with crop recommendations and disease detection",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3e7b3e",
+  "theme_color": "#3e7b3e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "lang": "en-US"
+}
