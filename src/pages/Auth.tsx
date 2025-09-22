@@ -68,7 +68,7 @@ const Auth = () => {
           <div className="mx-auto mb-4 h-12 w-12 rounded-full bg-primary flex items-center justify-center">
             <Leaf className="h-6 w-6 text-primary-foreground" />
           </div>
-          <CardTitle className="text-2xl font-bold text-primary">Gramin Samriddhi</CardTitle>
+          <CardTitle className="text-2xl font-bold text-primary">Agri Rise</CardTitle>
           <p className="text-muted-foreground">AI-powered farmer assistant</p>
         </CardHeader>
         
